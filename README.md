@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 # Welcome!
  
-## I'm Wesley Santos ! :man_technologist
+## I'm Wesley Santos :man_technologist: !
  
  
 ## About me 
