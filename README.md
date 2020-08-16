@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 # Welcome!
  
-## I'm Wesley Santos :man_technologist: !
+## I'm Wesley Santos :man_technologist:
  
  
 ## About me 
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleypsantos/)](https://www.linkedin.com/in/wesleypsantos/)
 [![Icloud Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.p.santos@icloud.com)](mailto:wesley.p.santos@icloud.com)
  
- # Thanks for visiting. 
+- Thanks for visiting. 
  
- # Enjoy it!! o/
+- Enjoy it!! o//
 
 
